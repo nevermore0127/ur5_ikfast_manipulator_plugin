@@ -1,0 +1,4 @@
+# ur5_ikfast_manipulator_plugin
+ikfast_manipulator_plugin for ur5.
+change kinematics.yaml like below:
+kinematics_solver: ur5_manipulator_kinematics/IKFastKinematicsPlugin
